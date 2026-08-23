@@ -1,6 +1,6 @@
 # Elo++
 
-[EloPlusPlus Link](web-production-f648f.up.railway.app)
+[Demo Link](https://web-production-f648f.up.railway.app)
 
 
 **Chess Analytics & Game Review Platform**

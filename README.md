@@ -1,8 +1,11 @@
 # Elo++
 
+[EloPlusPlus Link](web-production-f648f.up.railway.app)
 
-Chess Analytics & Game Review Platform
-Tech Stack: Python, Flask, JavaScript, REST APIs, CSS3
+
+**Chess Analytics & Game Review Platform**
+
+**Tech Stack**: Python, Flask, JavaScript, REST APIs, CSS3
 
 
 • This is a full-stack chess analytics dashboard integrating Chess.com 
